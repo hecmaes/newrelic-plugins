@@ -1,5 +1,6 @@
 # Plugins for New Relic
 
+
 ## Prerequisites
 All plugins require the following:
 - A New Relic account. Signup for a free account at http://newrelic.com
@@ -123,4 +124,4 @@ You are all set. The plugin will automatically start with you system. You may al
 
 ## For support
 Plugin support for troubleshooting assistance can be obtained by visiting the official [New Relic Community Forum](https://discuss.newrelic.com/) or the [plugin issues page](https://github.com/threelegs/newrelic-plugins/issues).  
-You can ping me directly in the forums by mentioning my username `@juanformoso` in any post, but any member of the community will be able to help you.
+You can ping me directly in the forums by mentioning my username `@juanformoso` in any post, but any member of the community will be able to help you..
